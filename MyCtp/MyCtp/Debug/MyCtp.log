@@ -1,0 +1,4 @@
+﻿  MyCtp.cpp
+f:\exchange\myctp\myctp\myctp\myctp.cpp(45): warning C4129: “e”: 不可识别的字符转义序列
+f:\exchange\myctp\myctp\myctp\myctp.cpp(45): warning C4129: “M”: 不可识别的字符转义序列
+  MyCtp.vcxproj -> F:\exchange\MyCtp\MyCtp\Debug\MyCtp.exe
