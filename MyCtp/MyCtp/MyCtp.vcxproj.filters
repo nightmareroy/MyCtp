@@ -33,12 +33,30 @@
     <ClInclude Include="20180109_tradeapi64_windows\header\ThostFtdcUserApiStruct.h">
       <Filter>头文件\ctp</Filter>
     </ClInclude>
+    <ClInclude Include="MyMarketData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTrader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMethod.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="MyCtp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyMarketData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyTrader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyMethod.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
